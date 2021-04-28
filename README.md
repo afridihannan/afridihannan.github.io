@@ -23,3 +23,8 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
+  <style>
+    img{
+    width=300px;
+    }
+  </style>
