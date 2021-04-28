@@ -26,5 +26,6 @@ be</a>
   <style>
     img{
     width=300px;
+    height=10px;
     }
   </style>
